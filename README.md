@@ -1,2 +1,2 @@
 # Activity-Recognition
-Use machine learning to classify various activities.
+Use machine learning to recognise various activities.
